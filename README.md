@@ -9,7 +9,7 @@
 ### Connect with me:
 [<img align="left" alt="vikkyp20 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_vikkyp20 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vikkyp20.github.io | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][website]
+[<img align="left" alt="vikkyp20.github.io " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/svg/globe.svg" />][website]
 
 <br />
 
