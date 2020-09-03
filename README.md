@@ -7,7 +7,8 @@
 
 ### Hi there, I'm Vikas  👋
 </div>
-## I'm a Student, Developer, and Enthusiast!
+
+### I'm a Student, Developer, and Enthusiast!
 - 🔭 I’m currently working on Java SE & EE technology!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Community Coordinator too !
