@@ -1,3 +1,10 @@
+<div align="center">
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+
+
+
+
 ### Hi there, I'm Vikas  👋
 
 ## I'm a Student, Developer, and Enthusiast!
@@ -5,6 +12,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m Community Coordinator too !
 - ⚡ Fun fact: I love to write poems and watch movies ..
+- 💭 Let's get to know each other 🌟
 
 ### Connect with me:
 [<img align="left" alt="vikkyp20 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -12,9 +20,10 @@
 
 
 <br />
+<div align="center">
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### Languages and Tools:
-
 
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -25,7 +34,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
-
+</div>
 <br />
 <br />
 
