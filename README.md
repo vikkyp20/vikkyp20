@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="assets/VikasPatel.mp4">
+     <img src="assets/VikasPatel.png">
 </div>
 
 
