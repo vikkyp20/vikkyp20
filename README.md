@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="assets/Vikas Patel.png">
+     <img src="https://github.com/vikkyp20/vikkyp20/blob/masterassets/Vikas Patel.png">
 </div>
 
 
