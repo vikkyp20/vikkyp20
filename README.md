@@ -8,7 +8,7 @@
 
 ![Name](Hello(1).gif)
 
-### Vikas Patel  👋
+ <h1>Vikas Patel  👋</h1>
 </div>
 
 ### I'm a Student, Developer, and Enthusiast!
