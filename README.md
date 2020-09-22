@@ -21,7 +21,9 @@
 - ⚡ Fun fact: I love to write poems and watch movies ..
 - 💭 Let's get to know each other 🌟
 
-### Connect with me:
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+<img src="https://img.shields.io/badge/patelvikky2000@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="patelvikky2000@gmail.com">   <a  href="https://www.instagram.com/vikkyp20/"><img src="https://img.shields.io/badge/@vikkyp20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/vikkyp20/"><img src="https://img.shields.io/badge/vikkyp20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
+
 [<img align="left" alt="vikkyp20 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_vikkyp20 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
