@@ -1,8 +1,3 @@
-<div align="center">
-     <img src="https://github.com/vikkyp20/vikkyp20/blob/master/assets/Vikas Patel.png" width=100%>
-
-</div>
-
 
 <div align="center">
   <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -10,6 +5,7 @@
 
 
 <div align="center">
+
 ![Name](Hello(1).gif)
 
 ### Vikas Patel  👋
@@ -17,6 +13,7 @@
 
 ### I'm a Student, Developer, and Enthusiast!
 - 🔭 I’m currently working on <strong> Java SE & EE technology</strong>!
+- 💬 Ask me about <strong>HTML,CSS,JavaScript, Bootstrap, Graphic Designing (Canva), VCS</strong>
 - 🌱 I’m currently learning <strong>everything 🤣</strong>
 - 👯 I’m <strong>Community Coordinator</strong> too !
 - ⚡ Fun fact: I love to write poems and watch movies ..
@@ -58,7 +55,10 @@
 </div>
 <br />
 <br />
+<div align="center">
+     <img src="https://github.com/vikkyp20/vikkyp20/blob/master/assets/Vikas Patel.png" width=100%>
 
+</div>
 
 
 
