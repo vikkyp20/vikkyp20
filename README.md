@@ -56,7 +56,7 @@
 <br />
 <br />
 <div align="center">
-     <img src="https://github.com/vikkyp20/vikkyp20/blob/master/assets/Vikas Patel.png" width=100%>
+     <img src="https://github.com/vikkyp20/vikkyp20/blob/master/assets/Vikas Patel.png" height=100% width=100%>
 
 </div>
 
