@@ -15,9 +15,9 @@
 </div>
 
 ### I'm a Student, Developer, and Enthusiast!
-- 🔭 I’m currently working on Java SE & EE technology!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m Community Coordinator too !
+- 🔭 I’m currently working on <strong> Java SE & EE technology</strong>!
+- 🌱 I’m currently learning <strong>everything 🤣</strong>
+- 👯 I’m <strong>Community Coordinator</strong> too !
 - ⚡ Fun fact: I love to write poems and watch movies ..
 - 💭 Let's get to know each other 🌟
 
