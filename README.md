@@ -10,8 +10,9 @@
 
 
 <div align="center">
+![Name](Hello(1).gif)
 
-### Hi there, I'm Vikas  👋
+### Vikas Patel  👋
 </div>
 
 ### I'm a Student, Developer, and Enthusiast!
