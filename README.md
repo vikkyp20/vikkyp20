@@ -47,7 +47,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikkyp20icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img src="https://github-readme-stats.vercel.app/api?username=vikkyp20&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 
 </div>
